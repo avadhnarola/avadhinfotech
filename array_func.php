@@ -24,4 +24,5 @@ else
 echo "<br>Value is NOT Found";
 
 // 5. current()
+
 ?>
